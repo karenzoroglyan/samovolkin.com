@@ -1,10 +1,9 @@
 .source {
-    margin: 5px;
-    padding: 5px;
-    width: 20vh;
-    background-color: #C0C0C0;
-    border: solid 1px;
-    border-radius: 30px;
-    display: flex;
-    align-items: center;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  color: #00bfff;
 }
