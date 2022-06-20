@@ -1,7 +1,6 @@
 import React from "react";
 import "./Source.css";
 
-
 function Source({ url, Icon }) {
   return (
     <div className="source">
