@@ -1,5 +1,5 @@
 import React from "react";
-import Source from "../components/Source";
+import Source from "../components/Source/Source";
 import "./Contacts.css";
 import TelegramIcon from "@mui/icons-material/Telegram";
 import EmailIcon from "@mui/icons-material/Email";
